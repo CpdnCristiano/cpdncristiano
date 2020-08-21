@@ -12,10 +12,10 @@
 </br>
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CpdnCristiano&count_private=true&theme=buefy&show_icons=true)](https://github.com/jonataslaw)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CpdnCristiano&count_private=true&theme=buefy&show_icons=true)](https://github.com/cpdncristiano)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CpdnCristiano&layout=compact)](https://github.com/jonataslaw/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CpdnCristiano&layout=compact)](https://github.com/cpdncristiano/)
 
 <!--
 **CpdnCristiano/cpdncristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
