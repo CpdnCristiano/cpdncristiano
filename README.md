@@ -1,29 +1,35 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Cristiano
 
-### Languages and Tools:
+💻 Desenvolvedor Full Stack  
+🚀 Especialista em Flutter, Node.js e APIs  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+---
 
-<img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
+#### 🚀 Tecnologias e Ferramentas
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="VSCode" height="40" width="40"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
+  <img align="center" alt="Flutter" height="40" width="40"
+    src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png">
+</div>
 
+---
 
-</br>
-</br>
+#### 🧠 Atualmente
 
+- 🔭 Trabalhando com Flutter e Node.js  
+- ⚡ Criando bots, APIs e automações  
 
-<!--
-**CpdnCristiano/cpdncristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 📫 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: https://github.com/CpdnCristiano
+
+---
+
+#### ⚡ Curiosidade
+
+Além do desenvolvimento, às vezes gosto de brincar criando mods para jogos, explorando mecânicas e personalizações.
